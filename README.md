@@ -1,7 +1,7 @@
-Hi my name's Jared and Im from Calgary Canada 
-I am a Bug Bounty hunter by night and a Cyber Security Specialist in the Daytime .
-I love the Recon side of Bug Bounty and Setting up the automation that goes along with it.
+## Hey 👋, This is Jared Douville
+[![Github Badge](https://img.shields.io/badge/-jareddarkweb-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jareddarkweb/)](https://www.github.com/jareddarkweb/) <p align='left'>Cyber Security Research from Calgary ,Canada. Owner of Alberta Cyber Security , doing asset-management / Red teaming /  Security research projects for our clients. </p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=jareddarkweb alt=jareddarkweb /> </p>
 
- 
- 
-![ACS](https://user-images.githubusercontent.com/84884636/225799524-8b817d50-e55d-4235-a3f2-dc7620eaf532.jpg)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=jareddarkweb&show_icons=true&include_all_commits=true)](https://github.com/jareddarkweb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jareddarkweb&layout=compact)](https://github.com/jareddarkweb/github-readme-stats)
